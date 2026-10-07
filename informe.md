@@ -57,9 +57,9 @@ Si el sistema evoluciona y se escala masivamente (por ejemplo, millones de regis
 
 * **Descriptiva (¿Qué pasó?):** 
   1. Se analizaron un total de **100,000 registros** provenientes de **40 sensores** distintos distribuidos en 4 plantas operativas[cite: 6].
-  2. La **Planta 3** acumuló el mayor número crítico de incidentes con **1,777 alertas** de temperatura superior a 85 °C[cite: 6].
+  2. La **Planta 3** acumuló el mayor número crítico de incidentes con **1,777 alertas** de temperatura superior a 85 °C.
 * **Predictiva (¿Qué podría pasar?):** 
-  * *Pregunta:* ¿En qué momento exacto del próximo mes fallará mecánicamente el sensor de la Planta 3 que registró las temperaturas máximas de 104.99 °C[cite: 6]?
+  * *Pregunta:* ¿En qué momento exacto del próximo mes fallará mecánicamente el sensor de la Planta 3 que registró las temperaturas máximas de 104.99 °C?
   * *Datos adicionales necesarios:* Historial de mantenimientos previos de la maquinaria, registros de vibración mecánica de los motores, consumo eléctrico en amperios y bitácoras de fallas anteriores asociadas a ese identificador de sensor.
 * **Prescriptiva (¿Qué acción debería tomar la empresa?):** 
   * *Acción propuesta:* Programar una inspección técnica presencial y el reemplazo preventivo del componente de enfriamiento en la Planta 3 antes de que concluya la semana operativa.
